@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sfm.stage.repository.LogistiqueRepository"/>
+    <fullyQualifiedTypeName name="com.sfm.stage.entity.Logistique"/>
+    <fullyQualifiedTypeName name="com.sfm.stage.service.LogistiqueService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="com.sfm.stage.service.UserService"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Query"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.query.Jpa21Utils"/>
+</qualifiedTypeNameHistroy>
